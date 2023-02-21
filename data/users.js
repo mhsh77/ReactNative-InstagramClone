@@ -1,0 +1,22 @@
+export const USERS = [
+    {
+        user:'qwert',
+        image:'https://www.w3schools.com/howto/img_avatar.png'
+    },
+    {
+        user:'yuio',
+        image:'https://www.w3schools.com/howto/img_avatar2.png'
+    },
+    {
+        user:'yuio',
+        image:'https://www.w3schools.com/howto/img_avatar.png'
+    },
+    {
+        user:'p[]',
+        image:"https://www.w3schools.com/w3images/avatar6.png",
+    },
+    {
+        user:'asdf',
+        image:"https://www.w3schools.com/howto/img_avatar.png",
+    },
+]
