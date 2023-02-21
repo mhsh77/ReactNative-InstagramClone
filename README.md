@@ -1,5 +1,5 @@
 # ReactNative Instagram Clone
-> Simple instagram app clone built with ReactNative and firebase
+> Simple instagram app clone built with Expo, ReactNative and firebase
 ### Install Dependencies
 
 ```
