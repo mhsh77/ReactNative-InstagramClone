@@ -1,44 +1,26 @@
-# My Universal React Project
+# ReactNative Instagram Clone
+> Simple instagram app clone built with ReactNative and firebase
+### Install Dependencies
 
-<p>
-  <!-- iOS -->
-  <a href="https://itunes.apple.com/app/apple-store/id982107779">
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  </a>
-  <!-- Android -->
-  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  </a>
-  <!-- Web -->
-  <a href="https://docs.expo.dev/workflow/web/">
-    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-  </a>
-</p>
+```
+npm i
+```
 
-## 🚀 How to use
+### run backend
 
-- Install packages with `yarn` or `npm install`.
-  - If you have native iOS code run `npx pod-install`
-- Run `yarn start` to start the bundler.
-- Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
+```
+cd discordBackend
+npm test
+```
+### run frontend
 
-## Adding Native Code
+```
+cd discord
+npm start
+```
+## preview video
 
-This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
-
-- Run `yarn eject` to create the native projects.
-- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
-
-## Publishing
-
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
-
-## 📝 Notes
-
-- Learn more about [Universal React](https://docs.expo.dev/).
-- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
+<img src="https://user-images.githubusercontent.com/52815971/220381783-f3184c8f-4594-47db-aa80-2b5e89d632b7.jpg"  width="300" height="600">
+<img src="https://user-images.githubusercontent.com/52815971/220381876-526f7402-47b5-4b2a-9be1-db9478bac770.jpg"  width="300" height="600">
+<img src="https://user-images.githubusercontent.com/52815971/220381886-d1fd4dc5-9e99-4b9d-96a2-7ace2057ee3b.jpg"  width="300" height="600">
+<img src="https://user-images.githubusercontent.com/52815971/220381837-982d84ab-05fb-44a1-b5eb-f6b473efb7ae.jpg"  width="300" height="600">
